@@ -1,0 +1,5 @@
+a= int(input("a="))
+b= int(input("b="))
+print('chia het:', a/b)
+print('chia lay phan nguyen:',a//b)
+print('chia lay phan du:',a%b)
